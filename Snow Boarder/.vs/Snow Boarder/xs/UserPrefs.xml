@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{2A910004-330B-7E8D-725D-B0FB27F922AD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CrashDetector.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="35" Column="6" />
+      <File FileName="Assets/Scripts/CrashDetector.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/FinishLine.cs" Line="16" Column="48" />
+      <File FileName="Assets/Scripts/DustTrail.cs" Line="23" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snow Boarder" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CrashDetector.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="79da8065-7c22-4923-a641-58b9b1f05b78" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
